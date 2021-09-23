@@ -1,0 +1,20 @@
+List activities = [
+  {'id': '1', 'name': 'Threesome'},
+  {'id': '2', 'name': 'Cunningly 45 minutes with whip cream and chocolate'},
+  {'id': '3', 'name': 'Fellatio 45 minutes with whip cream and chocolate'},
+  {'id': '4', 'name': 'Attend a Swingers Club'},
+  {'id': '5', 'name': 'Sex Toy on Her'},
+  {'id': '6', 'name': 'Sex Toy on Him'},
+  {'id': '7', 'name': 'Wife Swap'},
+  {'id': '8', 'name': 'Anal Sex on Him'},
+  {'id': '9', 'name': 'Anal Sex on Her'},
+  {'id': '10', 'name': 'Same Room sex with Another Couple'},
+  {'id': '11', 'name': 'Blindfold Sex for Her'},
+  {'id': '12', 'name': 'Blindfold Sex for Him'},
+  {'id': '13', 'name': 'Tie Me Up for Him'},
+  {'id': '14', 'name': 'Tie Me Up for Her'},
+  {'id': '15', 'name': 'Dance Naked for Her'},
+  {'id': '16', 'name': 'Dance Naked for Him'},
+  {'id': '17', 'name': 'Having Sex in the Park'},
+  {'id': '18', 'name': 'Having Sex in the Car'}
+];
